@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Kartik+Mathpati!;💻+Backend+Developer+%7C+AI+Enthusiast;🚀+Building+Scalable+Systems" />
 </p>
-###🪄 About Me
+🪄 About Me
 
 🎯 Software Engineer with internship experience at GE Aerospace
 💡 Strong in Java, Python, Backend Development & Data Systems
