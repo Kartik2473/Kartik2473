@@ -1,29 +1,32 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Kartik+Mathpati!;💻+Full Stack Developer+%7C+AI+Enthusiast;🚀+Building+Scalable+Systems" />
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Kartik+Mathpati!;💻+Full+Stack+Developer+%7C+AI+Enthusiast;🚀+Building+Scalable+Systems" />>
 </p>
----
-### 🪄 About Me
-
-🎯 Software Engineer with internship experience at GE Aerospace
-💡 Strong in Java, Python, Backend Development & Data Systems
-📊 Experience in data analytics, dashboards & reporting systems
-🌱 Currently focused on Spring Boot, DSA & scalable backend systems
-⚡ Passionate about building real-world AI-driven applications
 
 ---
-### 💼 Experience
 
-🏢 GE Aerospace — Data Engineering Intern
+🪄 About Me
 
-📍 Onsite | Jun 2025 – Dec 2025
+🎯 Software Engineer with internship experience at GE Aerospace.
 
-* Migrated enterprise reports from SSRS to TIBCO Spotfire
-* Performed data validation on large datasets
-* Built interactive dashboards for business insights
-* Documented SOPs to improve team productivity
-  
+💡 Strong in Java, Python, Backend Development & Data Systems.
+
+📊 Experience in data analytics, dashboards & reporting systems.
+
+🌱 Currently focused on Spring Boot, DSA & scalable backend systems.
+
+⚡ Passionate about building real-world AI-driven applications.
+
 ---  
+## 🎯 Goals
+
+- Become a strong Backend Developer  
+- Master DSA for placements  
+- Build scalable real-world systems  
+- Learn Spring Boot & System Design  
+- Crack product-based company interviews
+ 
+---
 ### 🚀 Featured Projects
 
 🏠 IntelliPlan-3D
@@ -34,9 +37,10 @@ AI-Based 2D-3D Floor Plan Recommendation System
 - 2D/3D visualization with AR support
 - Multi-layout recommendations based on user input
 - Scalable backend with REST APIs
-- 
+  
 * Create
     👉 https://github.com/Kartik2473/IntelliPlan-3D
+  
     👉 Live Demo: https://intelliplan3d.vercel.app/
   
 🤖 AI Message Classifier
@@ -44,14 +48,14 @@ AI-Based 2D-3D Floor Plan Recommendation System
 * NLP-based spam detection system
 * Models: SVM, Logistic Regression, Random Forest
 * Streamlit app for real-time classification
-    👉 https://github.com/Kartik2473/kartik-ai-message-classifier
+*   👉 https://github.com/Kartik2473/kartik-ai-message-classifier
 
 🧾 Employee Hub
 
 * Full-stack employee management system (MERN)
 * Features: attendance, tasks, reporting
 * REST APIs with CRUD operations
-
+* 👉 https://github.com/Kartik2473/employee-hub-management-system
 ---
 ### 🛠️ Tech Stack
 
