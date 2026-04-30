@@ -5,7 +5,7 @@
 
 ---
 
-🪄 About Me
+✨ About Me
 
 🎯 Software Engineer with internship experience at GE Aerospace.
 
