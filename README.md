@@ -99,13 +99,11 @@ AI-Based 2D-3D Floor Plan Recommendation System
 </p>
 
 ---
-### 🧠 LeetCode Status 
+### 📈 GitHub Status 
 <p align="center">
-  <a href="https://leetcode.com/u/Kartik2473/">
-    <img src="https://leetcard.jacoblin.cool/Kartik2473?theme=dark&font=baloo&ext=contest" />
-  </a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kartik2473&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kartik2473&theme=radical" />
 </p>
-
 ---
 ### 🌐 Connect With Me
 <p align="center">
