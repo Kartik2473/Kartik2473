@@ -9,23 +9,27 @@
 
 🎯 Software Engineer with internship experience at GE Aerospace.
 
-💡 Strong in Java, Python, Backend Development & Data Systems.
+💡 Skilled in Java, Python, Backend Development,and Data Systems.
 
-📊 Experience in data analytics, dashboards & reporting systems.
+📊 Experienced in data analytics, dashboards, and reporting solutions.
 
-🌱 Currently focused on Spring Boot, DSA & scalable backend systems.
+🌱 Currently learning Spring Boot and scalable backend development.
 
-⚡ Passionate about building real-world AI-driven applications.
+⚡ Passionate about building real-world AI-driven and full-stack applications.
 
----  
-## 🎯 Goals
 
-- Become a strong Backend Developer  
-- Master DSA for placements  
-- Build scalable real-world systems  
-- Learn Spring Boot & System Design  
-- Crack product-based company interviews
- 
+🎯 Goals
+
+Become a strong Backend Engineer
+
+Master DSA for software engineering interviews
+
+Build scalable real-world applications
+
+Learn Spring Boot & System Design
+
+Crack software engineering interviews at top tech companies
+
 ---
 ### 🚀 Featured Projects
 
