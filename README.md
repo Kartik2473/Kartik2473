@@ -90,20 +90,6 @@ AI-Based 2D-3D Floor Plan Recommendation System
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kartik2473&theme=radical&no-frame=true&row=1&column=6" />
 </p>
-
----
-### 📈 GitHub Status 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kartik2473&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kartik2473&theme=radical" />
-</p>
-
----
-### 📈 GitHub Status 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Kartik2473&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Kartik2473&theme=radical" />
-</p>
 ---
 ### 🌐 Connect With Me
 <p align="center">
