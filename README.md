@@ -17,6 +17,7 @@
 
 ⚡ Passionate about building real-world AI-driven and full-stack applications.
 
+---
 
 🎯 Goals
 
