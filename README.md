@@ -90,8 +90,10 @@ AI-Based 2D-3D Floor Plan Recommendation System
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kartik2473&theme=radical&no-frame=true&row=1&column=6" />
 </p>
+
 ---
-### 🌐 Connect With Me
+
+🌐 Connect With Me
 <p align="center">
   <a href="mailto:kartikmathpati2003@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
